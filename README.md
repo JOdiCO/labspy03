@@ -88,7 +88,8 @@ B. Process
 C. Output
       print("\nAngka Terbesar Adalah ",y)
           >>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu y
-Program1
+```
+# Program1
 Source Code
 modal = 100000000                              ## Nilai modal
 laba = 0                                       ## Nilai laba 0
