@@ -91,6 +91,7 @@ C. Output
 ```
 # Program1
 Source Code
+```
 modal = 100000000                              ## Nilai modal
 laba = 0                                       ## Nilai laba 0
 untung = 0                                     ## Nilai untung 0
