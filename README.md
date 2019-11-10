@@ -16,9 +16,6 @@ for i in range(start,stop,step):              ## Perulangan i dengan nilai awal 
     print("data ke : ",i,"=",(a))             ## Mencetak hasil
 print("\nDone")
 ```
-Hasil eksekusi Program:
-https://user-images.githubusercontent.com/56252129/68541984-4219e000-03d9-11ea-8c21-3e19c516dc14.png
-```
 ```
  -Algoritma
 
@@ -50,6 +47,9 @@ C. Output
         >> Mencetak hasil
     print("\nDone")
         >>Berfungsi untuk mencetak teks "Done" yang bertanda bahwa program sudah berakhir
+```
+Hasil eksekusi program:
+https://user-images.githubusercontent.com/56252129/68541984-4219e000-03d9-11ea-8c21-3e19c516dc14.png
 ```
 ```
 # Latihan2
@@ -93,9 +93,12 @@ C. Output
       print("\nAngka Terbesar Adalah ",y)
           >>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu y
 ```
+Hasil eksekusi program:
+https://user-images.githubusercontent.com/56252129/68542036-16e3c080-03da-11ea-9b5c-a5ebbd4b613a.png
+```
+```
 # Program1
 Source Code
-```
 ```
 modal = 100000000                              ## Nilai modal
 laba = 0                                       ## Nilai laba 0
@@ -157,3 +160,8 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba
      ```
+     Hasil eksekusi program:
+     https://user-images.githubusercontent.com/56252129/68542048-4eeb0380-03da-11ea-89f6-e9dd3ec8f6a8.png
+     ```
+     ```
+     
