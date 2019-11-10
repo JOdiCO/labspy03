@@ -51,6 +51,7 @@ C. Output
     print("\nDone")
         >>Berfungsi untuk mencetak teks "Done" yang bertanda bahwa program sudah berakhir
 ```
+```
 # Latihan2
 Source Code
 ```
@@ -94,6 +95,7 @@ C. Output
 ```
 # Program1
 Source Code
+```
 ```
 modal = 100000000                              ## Nilai modal
 laba = 0                                       ## Nilai laba 0
