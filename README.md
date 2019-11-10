@@ -119,6 +119,8 @@ for i in range(1,9,1):                         ## Perulangan i dengan nilai awal
  print("Laba Bulan Ke-",i," Sebesar ",laba)    ## Mencetak laba per bulan
 print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8 bulan
 ```
+Hasil eksekusi:
+https://user-images.githubusercontent.com/56252129/68542048-4eeb0380-03da-11ea-89f6-e9dd3ec8f6a8.png
 ```
 -Algoritma
 
@@ -159,9 +161,5 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
       >> Mencetak laba per bulan
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba
-     ```
-     Hasil eksekusi program:
-     https://user-images.githubusercontent.com/56252129/68542048-4eeb0380-03da-11ea-89f6-e9dd3ec8f6a8.png
-     ```
-     ```
+      ```
      
