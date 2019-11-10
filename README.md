@@ -17,7 +17,7 @@ for i in range(start,stop,step):              ## Perulangan i dengan nilai awal 
 print("\nDone")
 ```
 Hasil eksekusi Program:
-https://user-images.githubusercontent.com/56252129/68541948-8789dd80-03d8-11ea-9c72-8af8c06615cf.png
+https://user-images.githubusercontent.com/56252129/68541984-4219e000-03d9-11ea-8c21-3e19c516dc14.png
 ```
 ```
  -Algoritma
